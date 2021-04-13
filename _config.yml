@@ -93,9 +93,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google  :
-  tracking_id            : "UA-1416374-17"
+    tracking_id            : "UA-1416374-17"
+    tracking_id            : "UA-1416374-17"
+    anonymize_ip         : # true, false (default)
 
 # Google AdSense
 google_ad_client         : ca-pub-9831123328894173
@@ -116,7 +118,7 @@ author:
   facebook         : donkidd
   foursquare       :
   github           : donkidd
-  gitlab           :
+  gitlab           : DKidd
   google_plus      :
   keybase          :
   instagram        :

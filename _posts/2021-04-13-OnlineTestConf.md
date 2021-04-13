@@ -19,4 +19,4 @@ So check them out, I've been watching the online conference sessions for a few y
 
 So head on over to [OnlineTestConf](https://www.onlinetestconf.com/)  let me know what you think.  I just signed up and think that you should check it out.
 
-<a href=https://www.onlinetestconf.com/> <img src="https://www.onlinetestconf.com/wp-content/uploads/elementor/thumbs/Spring-OTC-2021-social-images_-Linkedin-p4l4g5bjeauevpi6mplnp0by3qoxrcps4o0nx02icw.gif" alt="Signup for online test conf promotional image"></a>
+![Signup for onlinetestconf promotional image](https://www.onlinetestconf.com/wp-content/uploads/elementor/thumbs/Spring-OTC-2021-social-images_-Linkedin-p4l4g5bjeauevpi6mplnp0by3qoxrcps4o0nx02icw.gif)

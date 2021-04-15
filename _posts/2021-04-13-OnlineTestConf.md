@@ -11,7 +11,7 @@ category:
 
 # Online Conferences #
 
-Virtual Conferences aren't a new thing, well atleast not anymore.  Since the beginning of the lockdown, everyone has started the whole WFH stuff.  But, what if you are a organization that does conferences?  You would think that doing conferences 'online' is a new thing, but there is a group that began back in that has been running their conferences fully online, since 2016.  They don't just do this once a year, nope, they decided semi-annually is the best way to do it.  So this May will be the 10th OnlineTestConf! Conference.   
+Virtual Conferences aren't a new thing, well at least not anymore.  Since the beginning of the lockdown, everyone has started the whole WFH stuff.  But, what if you are a organization that does conferences?  You would think that doing conferences 'online' is a new thing, but there is a group that began back in that has been running their conferences fully online, since 2016.  They don't just do this once a year, nope, they decided semi-annually is the best way to do it.  So this May will be the 10th OnlineTestConf! Conference.   
 
 ## Get Training without going anywhere ##
 

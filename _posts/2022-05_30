@@ -1,0 +1,13 @@
+---
+title: "I'm Writing a Paper"
+excerpt: "Writing a good abstract might cause you to write a paper"
+tags: [conferences, PNSQC]
+comments: true
+---
+# From Abstract to Paper
+I have been interested in the [Pacific NW Software Quality Conference(PNSQC)](https://pnsqc.org) for a few years.  I almost attended in 2019 but scheduling just didn't work out, so I descided that I would just attend the next year,  Well we all know what happened in 2020, unless you've forgotten it, but not many conferences happened in 2020, so I just put the idea of a conference on hold for a few years.  I've attended a few virtual ones, but was thinking that maybe 2022 would be the year that I would get back out in the world and attend a conference in person.  So there was a call for Papers opened up in January, and the topic of the conference was titled "The evolution of Quality". and they were looking for how quality is changing.  
+
+At (Miami)[www.miamioh.edu] we are still in the developing stages of our quality journey and since I've been in our IT group, quality and the importance of quality has been growing for the past 8ish years or so, so I wanted to share a bit of our journey.  All that to say I wrote the abstract you'll see below, and well they liked it.  So now I am working to take this abstract and create a 8-10pg paper from my Abstract.  So I'll share my journey as I have time, and my experiences in Portland, Oregon in October, but here is my abstract just to wet your appetite and maybe make you think about coming to join me/us at the PNSQC conference in Portland, Oregon on October 10-12.
+
+## The Abstract
+At Miami University, we have four to six software development teams responsible for the applications and processes that are written to support the members of the Miami community. Formal testing practices were very new to the organization, but we wanted to get an idea of the quality of our applications. One strategy would be to conduct a static analysis of code to obtain a score, but since we are in higher education, we wanted something more. Thus, we developed the idea of "Service Confidence"-as a group of stakeholders, we discuss and score three factors for our services: Context, Confidence, and Complexity. While the grade that we give our applications is important, we have discovered that the discussion determining the grade is just as important. I will be sharing how these conversations are going, and what we are learning as we go through this scoring exercise of Service Confidence, along with some timing  considerations when planning on scheduling these discussions. While this doesn't fully replace the quick analytics obtained from code static analysis, we can show that there is more to Quality than CRAP scores and code coverage.

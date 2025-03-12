@@ -20,7 +20,7 @@ main:
     params:
       class: " fa-code "
   - name: Posts
-    pageRef: /post
+    pageRef: /posts
     weight: 60
     params:
       class: " fa-newspaper "

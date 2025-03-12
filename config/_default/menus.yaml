@@ -1,0 +1,26 @@
+main:
+  - name: Tags
+    pageRef: /tags
+    weight: 65
+    params:
+      class: " fa-tags "
+  - name: About
+    pageRef: /about
+    weight: 30
+    params:
+      class: " fa-about "
+  - name: Sites
+    pageRef: /sites
+    weight: 40
+    params:
+      class: " fa-bookmark "
+  - name: Code
+    pageRef: /code
+    weight: 50
+    params:
+      class: " fa-code "
+  - name: Posts
+    pageRef: /post
+    weight: 60
+    params:
+      class: " fa-newspaper "

@@ -1,0 +1,22 @@
+baseURL: http://donkidd.us
+disablePathToLower: true
+languageCode: en-us
+title: QA Ramblings
+theme: ananke
+
+resourceDir: "../resources"
+
+DefaultContentLanguage: "en"
+enableRobotsTXT: true
+
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"
+
+defaultContentLanguage: en
+services:
+  googleAnalytics:
+    id: G-KTM5VW8J3Z
+pagination:
+  pagerSize: 6

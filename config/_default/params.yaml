@@ -1,0 +1,38 @@
+text_color: ""
+author: ""
+favicon: "assets/images/bio-photo.jpg"
+# site_logo: "assets/images/bio-photo.jpg"
+# description: "The last theme you'll ever need. Maybe."
+background_color_class: bg-black
+featured_image_class: cover bg-top
+cover_dimming_class: bg-black-10
+
+recent_posts_number: 5
+ananke_socials:
+  name: "twitter"
+  url: "https://twitter.com/GoHugoIO"
+
+mainSections:
+  - post
+
+ananke:
+  social:
+    # share:
+    #   networks:
+    #     - email
+    #     - facebook
+    #     - linkedin
+    #     - github
+    follow:
+      networks:
+        - linkedin
+        - github
+        - twitter
+    facebook:
+      username: donkidd
+    linkedin:
+      username: donkidd
+    github:
+      username: donkidd
+    twitter:
+      username: kidddw

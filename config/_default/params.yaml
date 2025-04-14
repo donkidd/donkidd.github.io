@@ -7,15 +7,13 @@ background_color_class: bg-black
 featured_image_class: cover bg-top
 cover_dimming_class: bg-black-10
 
-recent_posts_number: 5
 ananke_socials:
   name: "twitter"
   url: "https://twitter.com/GoHugoIO"
 
-mainSections:
-  - post
-
 ananke:
+  recent_posts_number: 5
+  show_recent_posts: enable
   social:
     # share:
     #   networks:

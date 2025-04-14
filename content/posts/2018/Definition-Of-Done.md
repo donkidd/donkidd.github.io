@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-09-10T00:00:00Z"
-summary::
+summary:
   This is the first in what I hope will be a series of posts I am writing,
   that I will also be sending to the development team at Miami
 tags:

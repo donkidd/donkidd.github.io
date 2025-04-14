@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2017-08-01T00:00:00Z"
-summary::
+summary:
   We've never had any sort of automated testing at Miami, so lets go build
   a place to run some tests
 tags:

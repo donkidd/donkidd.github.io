@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2017-09-12T00:00:00Z"
-summary::
+summary:
   As I look into using Sensu as a monitoring tool, I want to see how we can
   use our automate tests as a monitoring tool
 title: First Behat Extension

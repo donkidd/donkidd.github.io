@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-02-28T00:00:00Z"
-summary:: All highways do lead to Columbus, OH
+summary: All highways do lead to Columbus, OH
 tags:
   - QA Job
   - QAOTH

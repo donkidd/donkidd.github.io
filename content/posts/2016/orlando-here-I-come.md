@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2016-05-01T00:00:00Z"
-summary:: Testing isn't just a party at the beach
+summary: Testing isn't just a party at the beach
 tags:
   - QA Job
 title: Orlando, here I come

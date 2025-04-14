@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-08-06T00:00:00Z"
-summary:: What does it look like to be a coach of testing
+summary: What does it look like to be a coach of testing
 tags:
   - Teams
   - Coaching

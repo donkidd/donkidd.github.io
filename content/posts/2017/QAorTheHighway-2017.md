@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2017-03-01T00:00:00Z"
-summary:: QA or the Highway, is literally just up the Highway or two from me
+summary: QA or the Highway, is literally just up the Highway or two from me
 tags:
   - QA Job
   - QAOTH

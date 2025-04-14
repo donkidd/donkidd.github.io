@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-08-07T00:00:00Z"
-summary::
+summary:
   How to test faster while pusing towards a more automated environment of continous
   delivery?
 tags:

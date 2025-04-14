@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2017-04-10T00:00:00Z"
-summary:: Brief summary of what I learned from Selenium Conf 2017
+summary: Brief summary of what I learned from Selenium Conf 2017
 tags:
   - QA Job
   - Selenium

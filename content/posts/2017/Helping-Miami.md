@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2017-07-15T00:00:00Z"
-summary:: Where do I start?
+summary: Where do I start?
 tags:
   - QA Job
   - Selenium

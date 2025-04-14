@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2016-01-15T00:00:00Z"
-summary:: Making google work for you, the Software Testing Club & The Ministry of Testing
+summary: Making google work for you, the Software Testing Club & The Ministry of Testing
 tags:
   - QA Job
   - Links

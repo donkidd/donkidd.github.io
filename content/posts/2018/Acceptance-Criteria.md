@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-09-17T00:00:00Z"
-summary::
+summary:
   After some discussion on DoD, we are going to this week talk about an element
   of most DoDs - Acceptance Criteria
 references:

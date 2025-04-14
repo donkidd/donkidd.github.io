@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2019-03-01T00:00:00Z"
-summary:: Testability Challenge from the Ministry of Testing
+summary: Testability Challenge from the Ministry of Testing
 tags:
   - Testing Challenge
 title: 30 Days of Testability

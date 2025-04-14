@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-10-09T00:00:00Z"
-summary::
+summary:
   After some discussion on DoD, we want to talk a little about what it means
   for a story to be Ready
 references:

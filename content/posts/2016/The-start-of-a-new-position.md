@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2016-01-02T00:00:00Z"
-summary:: What did I get myself into
+summary: What did I get myself into
 tags:
   - QA Job
 title: The Start of a new position

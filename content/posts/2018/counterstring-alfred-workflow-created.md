@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-08-20T00:00:00Z"
-summary::
+summary:
   After learning about a counterstring while talking to someone at CAST, I
   had to make it easier for me to use them.
 tags:

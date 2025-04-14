@@ -1,7 +1,7 @@
 ---
 comments: true
 date: "2018-09-24T00:00:00Z"
-summary:: One outcome from Acceptance Criteria is easily creatable test cases
+summary: One outcome from Acceptance Criteria is easily creatable test cases
 tags:
   - Quality Questions
   - Test Cases

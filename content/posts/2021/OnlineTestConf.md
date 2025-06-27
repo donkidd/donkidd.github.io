@@ -2,18 +2,40 @@
 comments: true
 date: "2021-04-13T00:00:00Z"
 summary: How to 'go to a conference' in your Pajamas
+title: "OnlineTestConf: A Key Resource in Our QA Transformation Journey"
+draft: false
 tags:
-  - conferences
-  - OnlineTestConf
-title: Online Conferences
+  ["QA", "Testing", "OnlineTestConf", "Professional Development", "Conferences"]
+categories: ["Quality Assurance", "Resources"]
+author: "Your Name"
+description: "Discovering OnlineTestConf and how this virtual conference became an essential part of our team's QA education and transformation."
 ---
 
-Virtual Conferences aren't a new thing, well at least not anymore. Since the beginning of the lockdown, everyone has started the whole WFH stuff. But, what if you are a organization that does conferences? You would think that doing conferences 'online' is a new thing, but there is a group that began back in that has been running their conferences fully online, since 2016. They don't just do this once a year, nope, they decided semi-annually is the best way to do it. So this May will be the 10th OnlineTestConf! Conference.
+# Discovering Quality Education Resources
 
-## Get Training without going anywhere
+While working through our QA transformation at Miami, one of the resources I discovered has been particularly valuable for our team's professional development. Sometimes the best learning opportunities come from unexpected places.
 
-So check them out, I've been watching the online conference sessions for a few years now and they are usually pretty good. I only imagine that the sessions this year will be just as good.
+## Virtual Conferences: Ahead of Their Time
 
-So head on over to [OnlineTestConf](https://www.onlinetestconf.com/) let me know what you think. I just signed up and think that you should check it out.
+Virtual conferences aren't a new thing anymore, especially since the pandemic pushed everyone into remote work. But there's one group that saw the potential early - OnlineTestConf has been running their conferences fully online since 2016, way before it became the norm.
 
-![Signup for onlinetestconf promotional image](https://www.onlinetestconf.com/wp-content/uploads/elementor/thumbs/Spring-OTC-2021-social-images_-Linkedin-p4l4g5bjeauevpi6mplnp0by3qoxrcps4o0nx02icw.gif)
+They don't just do this once a year either. They decided semi-annually is the best approach, which means more opportunities for continuous learning. This May marked their 10th OnlineTestConf!
+
+## Get Training Without Going Anywhere
+
+For our team at Miami, OnlineTestConf solved several challenges we were facing:
+
+- **Budget-friendly**: No travel costs meant we could invest more in team attendance
+- **Time-efficient**: Team members could attend sessions without days away from work
+- **Flexible learning**: Sessions could be referenced later when implementing new practices
+- **Real-world focus**: Speakers shared practical experiences, not just theory
+
+I've been watching their online conference sessions for a few years now, and they're consistently high quality. The sessions continue to provide valuable insights for teams working to improve their testing practices.
+
+## Making Professional Development Accessible
+
+One of our biggest wins in the QA transformation has been making learning accessible to the entire team. OnlineTestConf became a cornerstone of our education strategy, providing exposure to industry best practices that our developers hadn't encountered before.
+
+So head on over to [OnlineTestConf](https://www.onlinetestconf.com/) and let me know what you think. I just signed up and think you should check it out too.
+
+![OnlineTestConf Signup](https://www.onlinetestconf.com/wp-content/uploads/elementor/thumbs/Spring-OTC-2021-social-images_-Linkedin-p4l4g5bjeauevpi6mplnp0by3qoxrcps4o0nx02icw.gif)

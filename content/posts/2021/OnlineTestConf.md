@@ -7,13 +7,12 @@ draft: false
 tags:
   ["QA", "Testing", "OnlineTestConf", "Professional Development", "Conferences"]
 categories: ["Quality Assurance", "Resources"]
-author: "Your Name"
-description: "Discovering OnlineTestConf and how this virtual conference became an essential part of our team's QA education and transformation."
+description: "Discovering OnlineTestConf and how this virtual conference was a part of my QA education and transformation."
 ---
 
 # Discovering Quality Education Resources
 
-While working through our QA transformation at Miami, one of the resources I discovered has been particularly valuable for our team's professional development. Sometimes the best learning opportunities come from unexpected places.
+While working through our QA transformation at Miami, one of the resources I discovered has been particularly valuable for my professional development. Sometimes the best learning opportunities come from unexpected places.
 
 ## Virtual Conferences: Ahead of Their Time
 
@@ -23,7 +22,7 @@ They don't just do this once a year either. They decided semi-annually is the be
 
 ## Get Training Without Going Anywhere
 
-For our team at Miami, OnlineTestConf solved several challenges we were facing:
+OnlineTestConf solved several challenges we were facing:
 
 - **Budget-friendly**: No travel costs meant we could invest more in team attendance
 - **Time-efficient**: Team members could attend sessions without days away from work

@@ -25,5 +25,5 @@ main:
     params:
       class: " fa-newspaper "
   - name: Slides
-    pageRef: slides.donkidd.us
+    pageRef: //slides.donkidd.us
     weight: 55

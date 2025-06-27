@@ -8,6 +8,8 @@ tags:
   - Software Testing Club
   - Ministry of Testing
 title: Searching for knowledge
+aliases:
+  - /Searching-for-knowledge/
 ---
 
 ## Where to start

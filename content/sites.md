@@ -10,12 +10,12 @@ layout: default
 ## Testing Sites
 
 - [Ministry of Testing](http://www.ministryoftesting.com/)
-- [Software Testing Club](http://www.softwaretestingclub.com/)
+- [Test Guild](https://testguild.com/)
 
 ## Selenium
 
 - [Selenium Conference](https://www.seleniumconf.com/)
-- [Selenium Software](https://seleniumhq.org)
+- [Selenium Software](https://www.selenium.dev/)
 
 ### Selenium + PHP = Behat
 
@@ -29,9 +29,3 @@ layout: default
 - [Quality Engineering Software & Testing](http://qaiquest.org/)
 - [Association of Software Testing](https://www.associationforsoftwaretesting.org/conference/)
 - [OnlineTestConf](https://www.onlinetestconf.com/)
-
-## People I've Met
-
-- [Jason Brooks](http://thatsqaguy.com/)
-
-## Metric Sites

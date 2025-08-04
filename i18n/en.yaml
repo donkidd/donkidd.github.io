@@ -1,0 +1,2 @@
+taxonomyPageList:
+  other: "Below you will find pages that utilize the term “{{ .Title }}”"

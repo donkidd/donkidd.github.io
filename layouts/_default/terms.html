@@ -1,0 +1,48 @@
+{{ define "main" }}
+  <div class="mw8 center">
+  <h2 class="tc f2 mt5 mb3">Explore Tags by Cloud</h2>
+
+    <!-- 🎨 Tag Cloud -->
+    <canvas id="tag-canvas" style="width: 100%; height: 50vh;"></canvas>
+
+    <script src="/js/wordcloud2.js"></script>
+    <script>
+      window.addEventListener("DOMContentLoaded", function () {
+        let tagArray = [];
+        {{ range $key, $value := .Data.Terms }}
+          tagArray.push(["{{ $key }}", {{ len $value }}]);
+        {{ end }}
+
+        WordCloud(document.getElementById("tag-canvas"), {
+          list: tagArray,
+          weightFactor: 8,
+          click: function(item) {
+            window.location.href = "/tags/" + item[0];
+          }
+        });
+      });
+    </script>
+
+    <h2 class="tc f2 mt5 mb3">Explore Tags by List</h2>
+
+    <!-- 📚 Legacy Terms Content -->
+    <article class="cf pa3 pa4-m pa4-l">
+      <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+        {{ .Content }}
+      </div>
+    </article>
+
+    <section class="ph4">
+      {{ range $term := .Data.Pages }}
+        <h2 class="f1">
+          <a href="{{ $term.RelPermalink }}" class="link blue hover-black">
+            {{ $.Data.Singular | inflect.Humanize }}: {{ $term.LinkTitle }}
+          </a>
+        </h2>
+        {{ range $term.Pages }}
+          {{ .Render "summary" }}
+        {{ end }}
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

@@ -4,16 +4,17 @@ date: "2025-06-27T00:00:00Z"
 tags:
   - Conferences
   - QAOTH
-summary: All highways do lead to Columbus, OH
----
 
-# Highway 2025 Conference Overview
-
-**📅 Date Attended:** June 27, 2025  
-**📍 Location:** The Ohio Union, Columbus, OH  
-**🔗 Conference Website:** [QA or the Highway](https://www.qaorthehwy.com/)  
-**🎯 Focus Areas:** Software Quality Assurance, GenAI Testing, Prompt Engineering, Automation
-
+summary: "All highways do lead to Columbus, OH"
+location: "The Ohio Union, Columbus, OH"
+focus_areas:
+  - "Software Quality Assurance"
+  - "GenAI Testing"
+  - "Prompt Engineering"
+  - "Automation"
+website:
+  name: "QA or the Highway"
+  url: "https://www.qaorthehwy.com/"
 ---
 
 ## 📝 Summary

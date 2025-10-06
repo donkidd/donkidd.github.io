@@ -6,6 +6,8 @@ favicon: "assets/images/bio-photo.jpg"
 background_color_class: bg-black
 featured_image_class: cover bg-top
 cover_dimming_class: bg-black-10
+custom_css:
+  - "dkidd.css"
 
 ananke_socials:
   name: "twitter"

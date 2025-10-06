@@ -1,0 +1,15 @@
+<div class="conference-info">
+  {{- with .Params.location -}}
+  <p><strong>📍 Location:</strong> {{ . }}</p>
+  {{- end -}} {{- with .Params.website -}} {{- $name := .name | default .url -}}
+  {{- $url := .url | default . -}}
+  <p>
+    <strong>🔗 Conference Website:</strong>
+    <a href="{{ $url }}" rel="noopener" target="_blank">{{ $name }}</a>
+  </p>
+  {{- end -}} {{- with .Params.focus_areas -}}
+  <p><strong>🎯 Focus Areas:</strong> {{ delimit . ", " }}</p>
+  {{- end -}}
+</div>
+
+<hr />

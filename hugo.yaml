@@ -20,3 +20,23 @@ services:
     id: G-KTM5VW8J3Z
 pagination:
   pagerSize: 6
+
+disableAliases: true
+
+outputs:
+  home:
+    - html
+    - rss
+    - redir
+
+mediaTypes:
+  "text/cf-redir":
+    suffix: ""
+    delimiter: ""
+
+outputFormats:
+  REDIR:
+    baseName: "_redirects"
+    isPlainText: true
+    mediaType: "text/cf-redir"
+    notAlternative: true

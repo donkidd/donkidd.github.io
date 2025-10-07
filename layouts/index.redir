@@ -1,0 +1,7 @@
+{{- $index := slice -}}
+{{- range $p := .Site.Pages -}}
+{{- range .Aliases -}}
+{{ if hasSuffix . "/" }}{{ strings.TrimRight "/" . }} {{ $p.RelPermalink }} 301{{ end }}
+{{ . }} {{ $p.RelPermalink }} 301
+{{ end -}}
+{{- end -}}
